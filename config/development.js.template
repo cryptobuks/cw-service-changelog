@@ -1,0 +1,4 @@
+module.exports = {
+  service: 'changelog',
+  rabbitmq: { active: true }
+}
